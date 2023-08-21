@@ -1,4 +1,4 @@
-name: 'Max build disk space(Ubuntu)'
+name: 'Build disk space Max(Ubuntu)'
 description: 'Maximize the Ubuntu Runner available disk space for your build job'
 branding:
   icon: 'crop'
