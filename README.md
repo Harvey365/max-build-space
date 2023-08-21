@@ -2,7 +2,7 @@
 Maximize available disk space for build tasks
 
 
-Added [maximize-build-disk-space](https://github.com/jlumbroso/free-disk-space) ability to remove large packets on the basis of [maximize-build-disk-space](https://github.com/easimon/maximize-build-space)
+Added [free-disk-space](https://github.com/jlumbroso/free-disk-space) ability to remove large packets on the basis of [maximize-build-disk-space](https://github.com/easimon/maximize-build-space)
 
 On Ubuntu 22.04.2, max have 70G disk space for you workspace, use this action.
 
